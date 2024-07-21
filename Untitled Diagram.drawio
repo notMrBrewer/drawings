@@ -1,9 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T22:59:08.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.5" etag="5vwXz4olITSKD-w3T88V" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-21T23:09:17.750Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xwLv5qexMOYkvEE7RDOF" version="24.6.5" type="github">
   <diagram name="Page-1" id="Ne7PQ0j1aDCgsAqYi8Qv">
-    <mxGraphModel>
+    <mxGraphModel dx="914" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ksrc1pNQya0nFoVfIFa2-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="234.5" y="389.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-2" value="SAT Folder - John Smith" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ksrc1pNQya0nFoVfIFa2-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="303.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-3" value="Collected Data" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="269" y="230" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-4" value="&amp;nbsp;Media" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="269" y="415" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-5" value="Portfolio of Design Ideas" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="269" y="533" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.075;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="234" y="260" as="sourcePoint" />
+            <mxPoint x="267.825" y="260.464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ksrc1pNQya0nFoVfIFa2-2" target="Ksrc1pNQya0nFoVfIFa2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.702;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Ksrc1pNQya0nFoVfIFa2-2" target="Ksrc1pNQya0nFoVfIFa2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-13" value="SAT Folder - John Smith" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Folder_Blank.svg;" vertex="1" parent="1">
+          <mxGeometry x="410" y="320" width="69" height="56.00000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="Ksrc1pNQya0nFoVfIFa2-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.041;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Ksrc1pNQya0nFoVfIFa2-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="303" y="360" as="sourcePoint" />
+            <mxPoint x="408.722" y="357.128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
